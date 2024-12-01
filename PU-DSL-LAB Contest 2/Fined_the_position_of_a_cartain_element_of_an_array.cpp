@@ -19,4 +19,5 @@ int main()
         if (array[j] == element)
             cout << j+1;
     }
+    return 0;
 }
