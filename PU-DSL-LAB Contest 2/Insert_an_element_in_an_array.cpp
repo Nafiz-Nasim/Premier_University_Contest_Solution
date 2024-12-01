@@ -35,4 +35,5 @@ int main()
         cout<<new_array[i]<<" ";
 
     }
+    return 0;
 }
