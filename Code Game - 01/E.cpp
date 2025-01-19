@@ -35,7 +35,14 @@ int main()
         i++;
         }
         
+
+
+
+
+
+
+
     }
     cout << count;
-    return 0;
+   
 }
