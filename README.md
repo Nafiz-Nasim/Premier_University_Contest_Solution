@@ -23,14 +23,3 @@ The problems in this repository are organized into various categories to help yo
 
 The solutions are primarily written in **C++**, utilizing its rich Standard Template Library (STL) for optimal performance in problem-solving.
 
-## Example Problem Solutions
-
-Here are a few example problems and their corresponding solutions available in this repository:
-
-- **Problem 1**: [Find the Largest Element in an Array](./arrays/largest_element.cpp)
-- **Problem 2**: [Check if a String is a Palindrome](./strings/palindrome_check.cpp)
-- **Problem 3**: [Binary Search in a Sorted Array](./sorting_and_searching/binary_search.cpp)
-- **Problem 4**: [Depth-First Search in a Graph](./graphs/dfs.cpp)
-- **Problem 5**: [Fibonacci Sequence Using Dynamic Programming](./dynamic_programming/fibonacci.cpp)
-
-Feel free to browse through the repository to explore more solutions!
